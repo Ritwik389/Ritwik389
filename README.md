@@ -10,13 +10,13 @@
   </a>
 
   <p>
-    <a href="YOUR_PORTFOLIO_URL">
+    <a href="https://portfolio-pi-silk-48.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=globe&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE">
+    <a href="https://linkedin.com/in/ritwikjain0803">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:YOUR_EMAIL_HERE">
+    <a href="mailto:ritwik8march@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
