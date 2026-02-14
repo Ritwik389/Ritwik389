@@ -6,7 +6,7 @@
   </a>
 
   <p>
-    <a href="YOUR_PORTFOLIO_URL_HERE">
+    <a href="#">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=globe&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE">
@@ -43,10 +43,6 @@ class Ritwik_Jain(Student):
 <br/>
 
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritwik389&show_icons=true&theme=radical&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwik389&layout=compact&theme=radical&hide_border=false&langs_count=6" height="160" />
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritwik389&theme=radical&hide_border=false" />
 </div>
