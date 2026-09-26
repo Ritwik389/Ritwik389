@@ -1,169 +1,153 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  RITWIK_OS v.26.09          SECURE BOOT CONSOLE                     ║
-║  ──────────────────────────────────────────────────────────────────  ║
-║  SYSTEM: RITWIK_JAIN                         STATUS: ONLINE          ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9A7&height=200&section=header&text=RITWIK%20JAIN&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Agents%20%C2%B7%20Digital%20Twins%20%C2%B7%20Gesture-Controlled%20Systems&descAlignY=58&descSize=17&descColor=39FF14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=%3E+initializing+Ritwik.exe...;%3E+loading+modules%3A+AI%2FML%2C+Computer+Vision%2C+Full-Stack...;%3E+mounting+digital+twin+%2Fdev%2Fmemory...;%3E+status%3A+DTU+IT+undergrad%2C+always+compiling+new+ideas" alt="Boot sequence typing animation" />
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117)
+![Role](https://img.shields.io/badge/ROLE-AI%2FML%20ENGINEER-00C9A7?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/FOCUS-COMPUTER%20VISION%20%7C%20AGENTS-7C3AED?style=for-the-badge&labelColor=0D1117)
 
-```text
-[  OK  ] identity verified
-[  OK  ] curiosity daemon started
-[  OK  ] human-in-the-loop interface connected
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%3E+initializing+Ritwik.exe...;%3E+loading+modules%3A+AI%2FML%2C+Computer+Vision%2C+Full-Stack...;%3E+status%3A+DTU+IT+undergrad%2C+always+compiling+new+ideas#gh-dark-mode-only)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1200&color=0F766E&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%3E+initializing+Ritwik.exe...;%3E+loading+modules%3A+AI%2FML%2C+Computer+Vision%2C+Full-Stack...;%3E+status%3A+DTU+IT+undergrad%2C+always+compiling+new+ideas#gh-light-mode-only)](https://git.io/typing-svg)
 
 </div>
 
-## `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
+
+## 🧠&nbsp; `$ whoami`
 
 ```text
-ritwik@dtu:~$ whoami
-Ritwik Jain — B.Tech Information Technology @ Delhi Technological University
-GPA: 9.4  |  specialty: building things that see, listen, and think
-
-ritwik@dtu:~$ ps aux | grep background
-AIMS-DTU       AI/ML research
-IGTS           Game Theory Society
-Sahitya DebSoc stories, arguments, and sharp sentences
+> Ritwik Jain
+> B.Tech, Information Technology — Delhi Technological University (GPA: 9.4)
+> builder of things that see, listen, and think
 ```
 
-I like turning ambitious interfaces into working systems: models that understand the
-world, agents that remember context, and products that feel a little more human.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
 
-## `$ cat achievements.log`
+## 🏆&nbsp; `$ cat achievements.log`
 
-```text
-[ACHIEVEMENT] [2nd PLACE] GreenTag @ APOGEE'26
-          led a 5-member team building an AI-powered civic issue reporting platform:
-          voice/text complaints, auto-categorization, geotagging, and a Telegram bot.
-          placed ahead of 20+ teams.
+<details open>
+<summary><b>View log</b></summary>
+<br>
 
-[ACHIEVEMENT] [TOP 100] Smart India Hackathon
-          built a gamified sustainability platform with AI plant-health detection.
-          validated the idea with 20+ trial users.
+![2ND PLACE](https://img.shields.io/badge/🥈_2ND_PLACE-FFB800?style=for-the-badge&labelColor=0D1117) **GreenTag @ APOGEE'26**
+Led a 5-member team building an AI-powered civic issue reporting platform (voice/text complaints, auto-categorization, geotagging, Telegram bot) — outperformed 20+ competing teams.
 
-[SHIPMENT] [SHIPPED] Fin'O Hack, DTU
-          shipped DrishtiPay, a Flutter UPI app for visually impaired users with
-          voice-guided payments and biometric authentication.
-```
+![TOP 100](https://img.shields.io/badge/🔥_TOP_100-00C9A7?style=for-the-badge&labelColor=0D1117) **Smart India Hackathon**
+Gamified sustainability platform with AI-based plant-health detection — 20+ trial users during testing.
 
-## `$ ls ./projects --featured`
+![SHIPPED](https://img.shields.io/badge/🚀_SHIPPED-7C3AED?style=for-the-badge&labelColor=0D1117) **Fin'O Hack, DTU — DrishtiPay**
+Flutter UPI app for visually impaired users with voice-guided payments and biometric authentication.
 
-```text
-drwxr-xr-x  gesture-control/   "control your machine with a wave"
-drwxr-xr-x  digital-twin/      "a mind cloned in code"
-drwxr-xr-x  autoencoders/      "compressing reality into 0.000023 error"
-```
+</details>
 
-### `./gesture-control` — [Desktop Controlled Gesture](https://github.com/Ritwik389/Gesture-based-desktop-control-system)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
 
-```text
-STACK    Python · FastAPI · React · MediaPipe · OpenCV · KNN
-BEHAVIOR learns your gesture from 30 seconds of data
-METRICS  90% accuracy · 45s retrain time
-```
+## 🚀&nbsp; `$ ls ./projects --featured`
 
-### `./digital-twin` — [Digital Twin](https://github.com/Ritwik389/digital-twin)
+<details open>
+<summary><b>[MODULE 01] desktop_controlled_gesture.py</b> &nbsp; ![loaded](https://img.shields.io/badge/status-loaded-39FF14?style=flat-square&labelColor=0D1117)</summary>
+<br>
 
-```text
-STACK    Python · Gemini · RAG · SQL · Pocket-TTS
-BEHAVIOR memory-augmented RAG agent that thinks and talks like a real scientist
-METRICS  voice cloned from a 30-second sample · 5s latency
-```
+> *"control your machine with a wave"*
 
-### `./autoencoders` — [Analyzing Autoencoders](https://github.com/Ritwik389/Analyzing-Autoencoders)
+- **Stack:** Python · FastAPI · React · MediaPipe · OpenCV · KNN
+- Learns a gesture from 30 seconds of data → **90% accuracy**, **45s retrain time**
+- 🔗 [Gesture-based-desktop-control-system](https://github.com/Ritwik389/Gesture-based-desktop-control-system)
 
-```text
-STACK    PyTorch · Deep Learning · Computer Vision
-BEHAVIOR compresses visual reality and makes the bottleneck measurable
-METRICS  8 architectures benchmarked · 99.86% improvement over baseline
-```
+</details>
 
-## `$ cat certifications.txt`
+<details open>
+<summary><b>[MODULE 02] digital_twin.py</b> &nbsp; ![loaded](https://img.shields.io/badge/status-loaded-39FF14?style=flat-square&labelColor=0D1117)</summary>
+<br>
 
-```text
-[VERIFIED] Deep Learning Specialization       :: DeepLearning.AI / Stanford
-[VERIFIED] Machine Learning Specialization    :: DeepLearning.AI / Stanford
-[VERIFIED] Google AI Intensive Course
-[VERIFIED] British Airways Data Science Simulation
-[VERIFIED] McKinsey Forward Program
-```
+> *"a mind cloned in code"*
 
-## `$ ./skills --list`
+- **Stack:** Python · Gemini · RAG · SQL · Pocket-TTS
+- Memory-augmented RAG agent that thinks and talks like a real scientist
+- Voice cloned from a 30-second sample → **5s latency**
+- 🔗 [digital-twin](https://github.com/Ritwik389/digital-twin)
 
-<table>
-<tr>
-<td valign="top" width="33%">
+</details>
 
-```text
-[loaded libraries] language + web
-```
+<details open>
+<summary><b>[MODULE 03] analyzing_autoencoders.py</b> &nbsp; ![loaded](https://img.shields.io/badge/status-loaded-39FF14?style=flat-square&labelColor=0D1117)</summary>
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,sqlite&perline=6" alt="Python, C, C++, HTML, CSS, SQLite" />
+> *"compressing reality into 0.000023 error"*
 
-</td>
-<td valign="top" width="33%">
+- **Stack:** PyTorch · Deep Learning · Computer Vision
+- 8 architectures benchmarked → **99.86% improvement** over baseline
+- 🔗 [Analyzing-Autoencoders](https://github.com/Ritwik389/Analyzing-Autoencoders)
 
-```text
-[loaded libraries] intelligence
-```
+</details>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,opencv&perline=6" alt="MERN, OpenCV" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
 
-</td>
-<td valign="top" width="33%">
+## 📜&nbsp; `$ cat certifications.txt`
 
-```text
-[loaded libraries] tools + systems
-```
+<details open>
+<summary><b>View credentials</b></summary>
+<br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,jupyter&perline=6" alt="TensorFlow, PyTorch, Git, GitHub, VS Code, Jupyter" />
+![verified](https://img.shields.io/badge/✓_VERIFIED-0D1117?style=flat-square&labelColor=00C9A7) **Deep Learning Specialization** — DeepLearning.AI / Stanford
+![verified](https://img.shields.io/badge/✓_VERIFIED-0D1117?style=flat-square&labelColor=00C9A7) **Machine Learning Specialization** — DeepLearning.AI / Stanford
+![verified](https://img.shields.io/badge/✓_VERIFIED-0D1117?style=flat-square&labelColor=00C9A7) **Google AI Intensive Course**
+![verified](https://img.shields.io/badge/✓_VERIFIED-0D1117?style=flat-square&labelColor=00C9A7) **British Airways Data Science Simulation**
+![verified](https://img.shields.io/badge/✓_VERIFIED-0D1117?style=flat-square&labelColor=00C9A7) **McKinsey Forward Program**
 
-</td>
-</tr>
-</table>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
+
+## ⚙️&nbsp; `$ ./skills --list`
+
+**Languages & Data**
+
+![Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,sqlite&theme=dark)
+
+**ML / CV / Web**
+
+![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,opencv,tensorflow,pytorch&theme=dark)
+&nbsp;
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter,arduino,linux,colab,aws&theme=dark)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
+
+## 🎯&nbsp; `$ ping competitive-programming`
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201662-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)
+![CodeChef](https://img.shields.io/badge/CodeChef-Rating%201426%20%282%E2%98%85%29-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
+
+## 📊&nbsp; `$ uptime --github-stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritwik389&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C9A7&icon_color=39FF14&text_color=C9D1D9#gh-dark-mode-only" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritwik389&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=0F766E&icon_color=00897B&text_color=24292F#gh-light-mode-only" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwik389&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9#gh-dark-mode-only" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwik389&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F766E&text_color=24292F#gh-light-mode-only" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0F2027&height=3&section=header" width="100%"/>
+
+## 📡&nbsp; `$ ./connect.sh`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,linux,colab,aws&perline=4" alt="Arduino, Linux, Google Colab, AWS" />
-</div>
 
-## `$ ping competitive-programming`
-
-```text
-leetcode@online  :: rating 1662
-codechef@online  :: 2★ · rating 1426
-```
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/ritwik389?theme=dark&font=Fira+Code&ext=contest2" alt="LeetCode statistics card" width="520" />
-<br />
-<img src="https://img.shields.io/badge/CodeChef-2%E2%98%85%20%7C%201426-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2 star, rating 1426" />
-</div>
-
-## `$ uptime --github-stats`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ritwik389&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF" alt="GitHub statistics" height="165" />
-<img src="https://streak-stats.demolab.com?user=Ritwik389&hide_border=true&theme=transparent&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="GitHub contribution streak" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwik389&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Top programming languages" height="165" />
-</div>
-
-## `$ ./connect.sh`
+[![Email](https://img.shields.io/badge/Email-ritwik8march%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritwik8march@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritwikjain0803-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwikjain0803/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ritwik389-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritwik389)
 
 ```text
-open a channel
-──────────────────────────────────────────────────────────────────────
-EMAIL     :: ritwik8march@gmail.com
-LINKEDIN  :: https://www.linkedin.com/in/ritwikjain0803/
-GITHUB    :: https://github.com/Ritwik389
-──────────────────────────────────────────────────────────────────────
 > connection established. thanks for stopping by.
 ```
 
-<div align="center">
-<sub>Built with curiosity, shipped with intent.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
