@@ -6,9 +6,9 @@
     <sub>CGPA: <strong>9.4</strong></sub>
   </p>
   <p>
-    <a href="https://portfolio-pi-silk-48.vercel.app"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/portfolio-button.svg" width="152" height="46" alt="Visit my portfolio" /></a>
-    <a href="https://www.linkedin.com/in/ritwikjain0803/"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/linkedin-button.svg" width="152" height="46" alt="Connect on LinkedIn" /></a>
-    <a href="mailto:ritwik8march@gmail.com"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/email-button.svg" width="152" height="46" alt="Contact me by email" /></a>
+    <a href="https://portfolio-pi-silk-48.vercel.app"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/portfolio-button.svg" width="144" height="40" alt="Visit my portfolio" /></a>
+    <a href="https://www.linkedin.com/in/ritwikjain0803/"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/linkedin-button.svg" width="144" height="40" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:ritwik8march@gmail.com"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/email-button.svg" width="116" height="40" alt="Contact me by email" /></a>
   </p>
 </div>
 
@@ -22,7 +22,12 @@ A conversational experience grounded in Jensen's source material, with streamed 
 - **Voice and interaction:** sentence-by-sentence Pocket TTS, streaming text, cancellable replies, and ambient audio.
 - **Evidence and exploration:** clickable citations, source timeline comparisons, a prebuilt topic map, and editable conversation memory.
 
-**[Try the live demo](https://rj8307-digital-twin-2.hf.space)** · [Source code](https://github.com/Ritwik389/digital-twin) · [Project showcase](https://rj8307-digital-twin-2.hf.space/showcase) · [Evaluation report](https://github.com/Ritwik389/digital-twin/blob/main/reports/benchmark.json)
+<p>
+  <a href="https://rj8307-digital-twin-2.hf.space"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/demo-button.svg" width="160" height="40" alt="Try the live demo" /></a>
+  <a href="https://github.com/Ritwik389/digital-twin"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/source-button.svg" width="148" height="40" alt="View source code" /></a>
+  <a href="https://rj8307-digital-twin-2.hf.space/showcase"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/showcase-button.svg" width="138" height="40" alt="View project showcase" /></a>
+  <a href="https://github.com/Ritwik389/digital-twin/blob/main/reports/benchmark.json"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/evaluation-button.svg" width="142" height="40" alt="Read the evaluation report" /></a>
+</p>
 
 🥈 **2nd place — GreenTag (APOGEE ’26)**
 
@@ -53,4 +58,4 @@ I also work with **Pandas, NumPy, Chroma, and Neo4j** for data processing, retri
   </a>
 </p>
 
-[Browse all my repositories](https://github.com/Ritwik389?tab=repositories).
+<a href="https://github.com/Ritwik389?tab=repositories"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/repositories-button.svg" width="184" height="40" alt="Browse all my repositories" /></a>
