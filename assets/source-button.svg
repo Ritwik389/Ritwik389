@@ -1,15 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="148" height="40" viewBox="0 0 148 40" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="30" viewBox="0 0 116 30" role="img" aria-labelledby="title">
   <title id="title">View source code</title>
-  <defs>
-    <linearGradient id="label" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#269be5"/><stop offset="1" stop-color="#167ec7"/></linearGradient>
-    <linearGradient id="icon" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#555b66"/><stop offset="1" stop-color="#41464f"/></linearGradient>
-    <clipPath id="corners"><rect width="148" height="40" rx="8"/></clipPath>
-  </defs>
+  <defs><clipPath id="corners"><rect width="116" height="30" rx="7"/></clipPath></defs>
   <g clip-path="url(#corners)">
-    <rect width="148" height="40" fill="url(#label)"/>
-    <rect width="38" height="40" fill="url(#icon)"/>
-    <path d="M38 0V40" stroke="#000" stroke-opacity="0.1"/>
+    <rect width="116" height="30" fill="#258dd3"/>
+    <rect width="30" height="30" fill="#243342"/>
+    <path d="M30 0V30" stroke="#fff" stroke-opacity="0.12"/>
   </g>
-  <g transform="translate(19 20)" fill="none" color="#fff" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-5-5L-10 0L-5 5 M5-5L10 0L5 5 M2-8L-2 8"/></g>
-  <text x="51" y="25" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Source code</text>
+  <g transform="translate(15 15) scale(0.72)" fill="none" color="#fff" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-5-5L-10 0L-5 5 M5-5L10 0L5 5 M2-8L-2 8"/></g>
+  <text x="40" y="19.3" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="500">Source code</text>
 </svg>

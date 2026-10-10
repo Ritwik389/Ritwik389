@@ -6,11 +6,17 @@
     <sub>CGPA: <strong>9.4</strong></sub>
   </p>
   <p>
-    <a href="https://portfolio-pi-silk-48.vercel.app"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/portfolio-button.svg" width="144" height="40" alt="Visit my portfolio" /></a>
-    <a href="https://www.linkedin.com/in/ritwikjain0803/"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/linkedin-button.svg" width="144" height="40" alt="Connect on LinkedIn" /></a>
-    <a href="mailto:ritwik8march@gmail.com"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/email-button.svg" width="116" height="40" alt="Contact me by email" /></a>
+    <a href="https://portfolio-pi-silk-48.vercel.app"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/portfolio-button.svg?v=3" width="110" height="30" alt="Visit my portfolio" /></a>
+    <a href="https://www.linkedin.com/in/ritwikjain0803/"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/linkedin-button.svg?v=3" width="110" height="30" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:ritwik8march@gmail.com"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/email-button.svg?v=3" width="88" height="30" alt="Contact me by email" /></a>
   </p>
 </div>
+
+## Achievement
+
+<p>
+  <img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/greentag-achievement.svg" width="480" alt="2nd place — GreenTag (APOGEE ’26)" />
+</p>
 
 ## Featured project · Jensen Huang Digital Twin
 
@@ -23,13 +29,11 @@ A conversational experience grounded in Jensen's source material, with streamed 
 - **Evidence and exploration:** clickable citations, source timeline comparisons, a prebuilt topic map, and editable conversation memory.
 
 <p>
-  <a href="https://rj8307-digital-twin-2.hf.space"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/demo-button.svg" width="160" height="40" alt="Try the live demo" /></a>
-  <a href="https://github.com/Ritwik389/digital-twin"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/source-button.svg" width="148" height="40" alt="View source code" /></a>
-  <a href="https://rj8307-digital-twin-2.hf.space/showcase"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/showcase-button.svg" width="138" height="40" alt="View project showcase" /></a>
-  <a href="https://github.com/Ritwik389/digital-twin/blob/main/reports/benchmark.json"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/evaluation-button.svg" width="142" height="40" alt="Read the evaluation report" /></a>
+  <a href="https://rj8307-digital-twin-2.hf.space"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/demo-button.svg?v=3" width="108" height="30" alt="Try the live demo" /></a>
+  <a href="https://github.com/Ritwik389/digital-twin"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/source-button.svg?v=3" width="116" height="30" alt="View source code" /></a>
+  <a href="https://rj8307-digital-twin-2.hf.space/showcase"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/showcase-button.svg?v=3" width="104" height="30" alt="View project showcase" /></a>
+  <a href="https://github.com/Ritwik389/digital-twin/blob/main/reports/benchmark.json"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/evaluation-button.svg?v=3" width="110" height="30" alt="Read the evaluation report" /></a>
 </p>
-
-🥈 **2nd place — GreenTag (APOGEE ’26)**
 
 ## More projects
 
@@ -58,4 +62,4 @@ I also work with **Pandas, NumPy, Chroma, and Neo4j** for data processing, retri
   </a>
 </p>
 
-<a href="https://github.com/Ritwik389?tab=repositories"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/repositories-button.svg" width="184" height="40" alt="Browse all my repositories" /></a>
+<a href="https://github.com/Ritwik389?tab=repositories"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/repositories-button.svg?v=3" width="146" height="30" alt="Browse all my repositories" /></a>
