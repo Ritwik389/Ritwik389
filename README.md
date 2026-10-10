@@ -2,12 +2,13 @@
   <img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/header.svg" width="100%" alt="Ritwik Jain — Code. Learn. Build. Repeat." />
   <p>
     <strong>Information Technology student at Delhi Technological University</strong><br />
-    Building projects in machine learning, computer vision, and full-stack development.
+    Building projects in machine learning, computer vision, and full-stack development.<br />
+    <sub>CGPA: <strong>9.4</strong></sub>
   </p>
   <p>
-    <a href="https://portfolio-pi-silk-48.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/ritwikjain0803/">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="mailto:ritwik8march@gmail.com">Email</a>
+    <a href="https://portfolio-pi-silk-48.vercel.app"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/portfolio-button.svg" width="152" height="46" alt="Visit my portfolio" /></a>
+    <a href="https://www.linkedin.com/in/ritwikjain0803/"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/linkedin-button.svg" width="152" height="46" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:ritwik8march@gmail.com"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/email-button.svg" width="152" height="46" alt="Contact me by email" /></a>
   </p>
 </div>
 
@@ -22,6 +23,8 @@ A conversational experience grounded in Jensen's source material, with streamed 
 - **Evidence and exploration:** clickable citations, source timeline comparisons, a prebuilt topic map, and editable conversation memory.
 
 **[Try the live demo](https://rj8307-digital-twin-2.hf.space)** · [Source code](https://github.com/Ritwik389/digital-twin) · [Project showcase](https://rj8307-digital-twin-2.hf.space/showcase) · [Evaluation report](https://github.com/Ritwik389/digital-twin/blob/main/reports/benchmark.json)
+
+🥈 **2nd place — GreenTag (APOGEE ’26)**
 
 ## More projects
 

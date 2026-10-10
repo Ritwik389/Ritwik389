@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="96" viewBox="0 0 320 96" role="img" aria-labelledby="title">
+  <title id="title">Connect on LinkedIn</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#344769"/>
+      <stop offset="1" stop-color="#4a5d81"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="318" height="94" rx="24" fill="url(#background)" stroke="#8093b9" stroke-opacity="0.55" stroke-width="2"/>
+  <rect x="27" y="30" width="36" height="36" rx="7" fill="#c7d8f5"/>
+  <circle cx="36" cy="39" r="2.4" fill="#344769"/>
+  <path d="M34 44H38V59H34Z M43 44H47V46C49 42 56 43 56 49V59H52V50C52 46 47 47 47 50V59H43Z" fill="#344769"/>
+  <text x="82" y="59" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="1.5">LINKEDIN</text>
+</svg>
