@@ -12,12 +12,6 @@
   </p>
 </div>
 
-## Achievement
-
-<p>
-  <img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/greentag-achievement.svg" width="480" alt="2nd place — GreenTag (APOGEE ’26)" />
-</p>
-
 ## Featured project · Jensen Huang Digital Twin
 
 A conversational experience grounded in Jensen's source material, with streamed replies, a reference voice, and an interactive map of the ideas behind each answer.
@@ -34,6 +28,8 @@ A conversational experience grounded in Jensen's source material, with streamed 
   <a href="https://rj8307-digital-twin-2.hf.space/showcase"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/showcase-button.svg?v=3" width="104" height="30" alt="View project showcase" /></a>
   <a href="https://github.com/Ritwik389/digital-twin/blob/main/reports/benchmark.json"><img src="https://raw.githubusercontent.com/Ritwik389/Ritwik389/main/assets/evaluation-button.svg?v=3" width="110" height="30" alt="Read the evaluation report" /></a>
 </p>
+
+🥈 **2nd place — GreenTag (APOGEE ’26)**
 
 ## More projects
 
