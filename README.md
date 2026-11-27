@@ -65,12 +65,16 @@ A Jensen Huang chatbot that answers in his voice, with sources. Streamed replies
 
 </details>
 
-## Experience and highlights
+## Experience
 
 - **AI/ML Intern, Deloitte** (Apr – Jul 2026): built multiclass classification pipelines on SageMaker, Glue, S3 and Athena, and moved 10+ notebook workflows into automated AWS Glue jobs.
-- 🥈 **2nd prize, GreenTag at APOGEE ’26, BITS Pilani**: led a 5-member team, 2nd of 20+ teams.
-- **Smart India Hackathon 2026**: both my teams, PRAMANA and CIPHER, cleared the DTU internal round.
 - **Open source:** [pgmpy #3739](https://github.com/pgmpy/pgmpy/pull/3739) (BDeu/BDs validation fix) and [neural-lam #893](https://github.com/mllam/neural-lam/pull/893) (datastore CLI docs fix).
+
+## Achievements
+
+- 🏆 **Visionary Award**, Open Scientific Intelligence Hackathon 2026
+- 🥈 **2nd prize, GreenTag** at APOGEE ’26, BITS Pilani: led a 5-member team, 2nd of 20+ teams.
+- **Smart India Hackathon 2026**: both my teams, PRAMANA and CIPHER, cleared the DTU internal round.
 
 ## Tech stack
 
